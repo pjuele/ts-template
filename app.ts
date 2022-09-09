@@ -1,1 +1,1 @@
-console.log("This is app.ts compiled!");
+alert("Put some code in app.ts and compile it!");
